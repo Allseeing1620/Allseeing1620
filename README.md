@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Roman</h1>
 <h3 align="center">Software Engineer at the intersection of code, hardware, and business</h3>
 
