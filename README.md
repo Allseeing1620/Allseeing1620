@@ -4,14 +4,6 @@
 <h1 align="center">Привет 👋, я Роман</h1>
 <h3 align="center">Lead Engineer, на стыке кода, железа и бизнеса</h3>
 
-- 🔭 Сейчас работаю над **кроссплатформенными приложениями на Avalonia UI** и учусь в магистратуре **МИФИ**. 
-- 🌱 Изучаю **Applied Data Science** и **Information Security**.
-- 👨‍💻 Мой опыт: **C#**, **Python**, **.NET**, **Avalonia**, **PostgreSQL**, **Hardware**.
-- 🧠 Интересы: **ML Engineering**, **Business Analysis**, **IoT/Embedded Security**.
-- 💼 Открыт к интересным проектам в сфере **FinTech**, **GovTech** или **Hardware-related Software**.
-- 📫 Свяжись со мной: **[[Твой Telegram]]** или **[[Твоя почта]]**
-
----
 
 ### 🛠 Мой стек и инструменты
 
@@ -31,11 +23,3 @@
 </p>
 
 ---
-
-### 📊 Статистика GitHub
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="YOUR_USERNAME" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=radical" alt="YOUR_USERNAME" /></p>
-
-*Замени `YOUR_USERNAME` на свой GitHub username.*
